@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+#stDiv1{
+	margin: 0px;
+	padding: 0px;
+	width: 25%;
+	height: 52px;
+	background-color: #4d9af0;  
+	float: right;
+	text-align:right;
+}
+#stUl1
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+#stLi1
+{
+	float:right;
+}
+#stA1:link,#stA1:visited
+{
+	display:block;
+	width:50px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#4d9af0;
+	text-align:center;
+	padding:15px;
+	text-decoration:none;
+}
+#stA1:hover,#stA1:active
+{
+	background-color:#6386ba;
+	color:#ffcc00;
+}
