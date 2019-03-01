@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+#slBody,html {
+	width: 100%;
+	height: 100%;
+	min-width:800px;
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+
+#slDiv1{
+	position:relative;
+	margin: 0px auto;
+	padding: 0px;
+	width: 100%;
+	min-height:100%;
+	background-color: #cccccc;
+	border:2px;
+	text-align:center;
+}
+
+#slDiv2{
+	position: fixed;
+	top:0px;
+	width: 100%;		
+}
+
+#slDiv3{
+	margin: 0px auto;
+	padding: 20px 30px 20px 30px;
+	width: 100%-60px;
+	min-height:100%;
+	background-color: #a4bcf7;
+	border:2px;
+	text-align:center;
+}
+
+#slDiv4 {
+	position:absolute;
+	bottom: 0px;
+	margin: -20px auto;
+	padding: 10px 0px 10px 0px;
+	width: 100%;
+	background-color: #4d9af0;
+	border: 2px;
+	text-align: center;
+}
+
+div.arInfo {
+	margin: 20px auto;
+	padding: 20px 30px 20px 30px;
+	width: 80%;
+	background-color: #c0c0c0;
+	border: 2px;
+}
+
+pre {
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+}
+
+.sub {
+	background-color: transparent;
+	border: none;
+	padding: 0;
+}

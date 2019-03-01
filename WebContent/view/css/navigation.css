@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+#ngDiv1{
+	margin: 0px;
+	padding: 0px;
+	width: 75%;
+	height: 52px;
+	background-color: #4d9af0;  
+	float:left;
+}
+
+
+#ngUl1
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+#ngLi1
+{
+	float:left;
+}
+#ngA1:link,#ngA1:visited
+{
+	display:block;
+	width:80px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#4d9af0;
+	text-align:center;
+	padding:15px;
+	text-decoration:none;
+}
+#ngA1:hover,#ngA1:active
+{
+	background-color:#6386ba;
+	color:#ffff80;
+}
+
+
+
